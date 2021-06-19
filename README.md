@@ -25,27 +25,27 @@ Hotel management System [Decorator Design Pattern and UML](https://www.youtube.c
 
 # TODO
 - [ ] Design True caller	
-- [ ]Design Snake and Ladder Game	
-- [ ]Design Bill Sharing/Expense Sharing like Splitwise
-- [ ]Design Amazon Locker Service	
-- [ ]Design Vehicle / Car Rental Application like Zoomcar
-- [ ]Design Distributed Id Generation like Twitter Snowflake id	
-- [ ]Implement a logger	
-- [ ]Cab Booking like Uber, Ola	Solution-1	Video-1
-- [x]Design Parking lot system
-- []Design Chess Game	
-- []Design Cache system	
-- []Design an online book reader system	(Library)
-- [x]Design an online hotel booking system	
-- []Design a Logistics System	
-- []Design Tic Tac Toe
-- []Design a configuration management system
-- []Design a Vending Machine
-- []Design Maps Navigator Client for different transportation types (OOD)
-- []Design a Json Parser from scratch	
-- []Design Elevator	
-- []CricInfo/Cricbuzz
-- []TikTok
-- []Pinterest
-- []Movie Ticket Booking
-- []Uber Eats/ Door dash/ Swiggy
+- [ ] Design Snake and Ladder Game	
+- [ ] Design Bill Sharing/Expense Sharing like Splitwise
+- [ ] Design Amazon Locker Service	
+- [ ] Design Vehicle / Car Rental Application like Zoomcar
+- [ ] Design Distributed Id Generation like Twitter Snowflake id	
+- [ ] Implement a logger	
+- [ ] Cab Booking like Uber, Ola	Solution-1	Video-1
+- [x] Design Parking lot system
+- [ ] Design Chess Game	
+- [ ] Design Cache system	
+- [ ] Design an online book reader system	(Library)
+- [x] Design an online hotel booking system	
+- [ ] Design a Logistics System	
+- [ ] Design Tic Tac Toe
+- [ ] Design a configuration management system
+- [ ] Design a Vending Machine
+- [ ] Design Maps Navigator Client for different transportation types (OOD)
+- [ ] Design a Json Parser from scratch	
+- [ ] Design Elevator	
+- [ ] CricInfo/Cricbuzz
+- [ ] TikTok
+- [ ] Pinterest
+- [ ] Movie Ticket Booking
+- [ ]Uber Eats/ Door dash/ Swiggy
