@@ -48,4 +48,4 @@ Hotel management System [Decorator Design Pattern and UML](https://www.youtube.c
 - [ ] TikTok
 - [ ] Pinterest
 - [ ] Movie Ticket Booking
-- [ ]Uber Eats/ Door dash/ Swiggy
+- [ ] Uber Eats/ Door dash/ Swiggy
