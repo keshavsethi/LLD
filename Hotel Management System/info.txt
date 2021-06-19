@@ -1,0 +1,18 @@
+Decorator Design Pattern
+
+Actors:
+Guest 
+Receptionist
+Admin
+Server
+HouseKeeping
+
+Use Cases:
+Add/remove/edit room 
+Search Room
+Cancel room
+Book ROom
+Check in 
+Check out
+Add Room Charge
+Update House keeping log
