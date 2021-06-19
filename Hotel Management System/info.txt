@@ -1,4 +1,4 @@
-Decorator Design Pattern
+# Decorator Design Pattern
 
 Actors:
 Guest 
