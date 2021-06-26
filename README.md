@@ -51,5 +51,5 @@ Book My show
 - [ ] Pinterest
 - [X] Movie Ticket Booking
 - [ ] Uber Eats/ Door dash/ Swiggy
-- [ ] LRU
+- [X] LRU
 - [X] Stack and Queue
