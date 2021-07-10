@@ -52,4 +52,5 @@ Book My show
 - [X] Movie Ticket Booking
 - [ ] Uber Eats/ Door dash/ Swiggy
 - [X] LRU
+- [ ] LFU
 - [X] Stack and Queue
