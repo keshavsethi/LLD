@@ -1,3 +1,6 @@
+// https://www.javastructures.com/design/elevator
+// https://www.javatpoint.com/Comparable-interface-in-collection-framework
+
 class Elevator {
 	private int currentFloor = 0;
 	private Direction currentDirection = Direction.UP;

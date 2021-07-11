@@ -1,6 +1,3 @@
-
-import java.util.TreeSet;
-
 class Elevator {
 	private Direction currentDirection = Direction.UP;
 	private State currentState = State.IDLE;
