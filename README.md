@@ -36,7 +36,8 @@ Book My show
 - [ ] Cab Booking like Uber, Ola	
 - [X] Design Parking lot system
 - [X] Design Chess Game	
-- [ ] Design Cache system	
+- [X] Stackoverflow
+- [ ] LFU
 - [X] Design an online book reader system	(Library)
 - [X] Design an online hotel booking system	(Decorator Design Pattern)
 - [ ] Design a Logistics System	
@@ -53,5 +54,4 @@ Book My show
 - [X] Movie Ticket Booking
 - [ ] Uber Eats/ Door dash/ Swiggy
 - [X] LRU
-- [ ] LFU
 - [X] Stack and Queue
