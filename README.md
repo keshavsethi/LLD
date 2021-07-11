@@ -35,7 +35,7 @@ Book My show
 - [ ] Implement a logger	
 - [ ] Cab Booking like Uber, Ola	
 - [X] Design Parking lot system
-- [ ] Design Chess Game	
+- [X] Design Chess Game	
 - [ ] Design Cache system	
 - [X] Design an online book reader system	(Library)
 - [X] Design an online hotel booking system	(Decorator Design Pattern)
@@ -46,6 +46,7 @@ Book My show
 - [ ] Design Maps Navigator Client for different transportation types (OOD)
 - [ ] Design a Json Parser from scratch	
 - [ ] Design Elevator	
+- [X] Design ATM (Factory Design pattern)
 - [ ] CricInfo/Cricbuzz
 - [ ] TikTok
 - [ ] Pinterest
