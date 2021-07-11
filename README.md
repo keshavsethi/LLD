@@ -29,16 +29,16 @@ Book My show
 - [ ] Design True caller	
 - [ ] Design Snake and Ladder Game	
 - [ ] Design Bill Sharing/Expense Sharing like Splitwise
-- [ ] Design Amazon Service	
+- [X] Design Amazon Service	(Stratagy Design Pattern for notifications)
 - [ ] Design Vehicle / Car Rental Application like Zoomcar
 - [ ] Design Distributed Id Generation like Twitter Snowflake id	
 - [ ] Implement a logger	
-- [ ] Cab Booking like Uber, Ola	Solution-1	Video-1
+- [ ] Cab Booking like Uber, Ola	
 - [X] Design Parking lot system
 - [ ] Design Chess Game	
 - [ ] Design Cache system	
 - [X] Design an online book reader system	(Library)
-- [X] Design an online hotel booking system	
+- [X] Design an online hotel booking system	(Decorator Design Pattern)
 - [ ] Design a Logistics System	
 - [ ] Design Tic Tac Toe
 - [ ] Design a configuration management system
