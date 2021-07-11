@@ -46,7 +46,7 @@ Book My show
 - [ ] Design a Vending Machine
 - [ ] Design Maps Navigator Client for different transportation types (OOD)
 - [ ] Design a Json Parser from scratch	
-- [ ] Design Elevator	
+- [X] Design Elevator	
 - [X] Design ATM (Factory Design pattern)
 - [ ] CricInfo/Cricbuzz
 - [ ] TikTok
